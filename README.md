@@ -1,4 +1,5 @@
-Assuming you have a env on:\\
+Assuming you have a env on:\
+
 pip install irc.bot\
 pip install irc.strings\
 pip install requests\
