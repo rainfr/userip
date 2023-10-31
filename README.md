@@ -4,7 +4,7 @@ pip install irc.bot\
 pip install irc.strings\
 pip install requests\
 pip install logging\
-pip install re\
+pip install re
 
 You can use tmux for this.
 
